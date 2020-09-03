@@ -9,23 +9,17 @@ G Suite / Google Cloud Apps Script Automation Projects
 
 ![GitHub Logo](/images/unnany.png)
 
-![GitHub Logo](/images/Google_Apps_Script.png)
+![GitHub Logo](/images/google-apps-script.svg)
 
-![GitHub Logo](/images/Goole_Forms.png)
+![GitHub Logo](/images/logo_forms_128px.png)
 
-![GitHub Logo](/images/Google_Sheets.png)
+![GitHub Logo](/images/logo_sheets_128px.png)
 
-![GitHub Logo](/images/Google_Docs.png)
+![GitHub Logo](/images/logo_gmail_128px.png)
 
-![GitHub Logo](/images/Google_Gmail.png)
+![GitHub Logo](/images/logo_calendar_128px.png)
 
-![GitHub Logo](/images/Google_Calender.png)
+![GitHub Logo](/images/logo_slides_128px.png)
 
-![GitHub Logo](/images/Google_Classroom.png)
-
-![GitHub Logo](/images/Google_Meet_ChatBot.png)
-
-![GitHub Logo](/images/Google_Slides.png)
-
-![GitHub Logo](/images/Google_Analytics.png)
+![GitHub Logo](/images/logo_drive_128px.png)
 
